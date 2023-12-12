@@ -1,0 +1,28 @@
+.BACKGROUND-COLOR {
+  background-color: orange;
+  height: 100vh;
+  width: 800px;
+  margin: 30px auto;
+}
+.CONTENT {
+  text-align: CENTER;
+  font-weight: 100;
+  font-size: 30px;
+  color: white;
+  font-style: "Roboto";
+}
+
+.BUTTONS-CONTAINER {
+  margin-top: 50;
+}
+.BUTTON {
+  width: 100;
+  height: 50;
+  border-radius: 10px;
+  background-color: orange;
+  border-width: 2px;
+  font-size: 20px;
+  margin: 10px;
+  color: white;
+  border-color: white;
+}
